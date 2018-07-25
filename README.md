@@ -17,6 +17,7 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
  * [Preprocessors in Action](#preprocessors-in-action)
  * [Polyfills](#polyfills)
 * [Other Interesting Articles](#other-interesting-articles)
+* [Cheatsheets](#cheatsheets)
 * [Presentations](#presentations)
  * [Videos](#videos)
  * [Slides and Notes](#slides-and-notes)
@@ -60,7 +61,28 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 * [Using CSS flexible boxes](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Flexible_boxes)
 * [What IS Flexbox?](https://medium.com/@spaceninja/what-is-flexbox-6aed968555ef)
 * [Desarrollo de aplicaciones web Flexibles (es-es)](http://nucliweb.github.io/flexbox/)
+* [Become 2018 ready with flexbox and grid](https://blog.prototypr.io/become-a-2018-ready-web-developer-by-learning-flexbox-and-css-grid-d32e4af2dcc0)
 * [Webflow Flexbox](https://flexbox.webflow.com/)
+* [CSS Tricks Flexbox Almanac](https://css-tricks.com/almanac/properties/f/flex/)
+* [Don't overthink flexbox grids](https://css-tricks.com/dont-overthink-flexbox-grids/)
+* [Understanding Flexbox](https://github.com/ohansemmanuel/Understanding-Flexbox)
+* [Flexbox Tips and Tricks](https://guide.freecodecamp.org/css/tutorials/css-flexbox-tips-and-tricks/)
+* [Interneting Is Hard Flexbox](https://internetingishard.com/html-and-css/flexbox/)
+* [CSS flexbox in 5 minutes](https://medium.freecodecamp.org/learn-css-flexbox-in-5-minutes-b941f0affc34)
+* [Tutorial Point flexbox](https://www.tutorialspoint.com/flexbox/)
+* [W3Schools Flexbox](https://www.w3schools.com/css/css3_flexbox.asp)
+* [Don't use flexbox for overall layout](https://jakearchibald.com/2014/dont-use-flexbox-for-page-layout/)
+* [Tricks with flexbox for better css patterns](https://webdesign.tutsplus.com/tutorials/tricks-with-flexbox-for-better-css-patterns--cms-19449)
+* [MDN Aligning Items In Flex Container](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Aligning_Items_in_a_Flex_Container);
+* [MDN CSS Flexbox Backwards Compatibility](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Backwards_Compatibility_of_Flexbox)
+* [MDN Basic Concepts of Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
+* [MDN Flexbox Controlling Ratios of Flex Items](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Controlling_Ratios_of_Flex_Items_Along_the_Main_Ax)
+* [MDN Flexbox Layout Mixins](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Mixins)
+* [MDN Mastering Wrapping of Flex Items](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Mastering_Wrapping_of_Flex_Items)
+* [MDN Ordering Flex Items](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Ordering_Flex_Items)
+* [MDN Flexbox Relationship to Other Layout Methods](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Relationship_of_Flexbox_to_Other_Layout_Methods)
+* [MDN Typical Use Cases of Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Typical_Use_Cases_of_Flexbox)
+* [MDN Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
 
 ## Cross Browser
 *Tips and tricks for your projects work anywhere :D*
@@ -99,7 +121,19 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 * [Old flexbox and new flexbox](https://css-tricks.com/old-flexbox-and-new-flexbox/)
 * [Using flexbox today](https://chriswrightdesign.com/experiments/using-flexbox-today/)
 * [Laying Out A Flexible Future For Web Design With Flexbox](https://www.smashingmagazine.com/2015/08/flexible-future-for-web-design-with-flexbox/)
-* [Flexbox Cheatsheet](http://jonibologna.com/flexbox-cheatsheet/)
+* [Flexbox Layout Isn't Slow](https://developers.google.com/web/updates/2013/10/Flexbox-layout-isn-t-slow?hl=en)
+* [Avoid Complex Layouts and Thrashing](https://developers.google.com/web/fundamentals/performance/rendering/avoid-large-complex-layouts-and-layout-thrashing)
+
+## Cheatsheets
+* [Joni Bologna Flexbox Cheatsheet](http://jonibologna.com/content/images/flexboxsheet.pdf)
+* [Jamie Builds Flexbox Cheatsheet](https://github.com/jamiebuilds/flexbox-cheat-sheet)
+* [Alsa Creations Flexbox Cheatsheet](https://www.alsacreations.com/xmedia/guidelines/flexbox-cheatsheet.pdf)
+* [Darek Kay Flexbox Cheatsheet](https://darekkay.com/dev/flexbox-cheatsheet.html)
+* [Devhints Flexbox Cheatsheet](https://devhints.io/css-flexbox)
+* [Gap Intelligence Flexbox Cheatsheet](https://gapintelligence.com/blog/2017/the-flexbox-one-page-cheat-sheet)
+* [Sketching With CSS Flexbox Cheatsheet](https://www.sketchingwithcss.com/samplechapter/cheatsheet.html)
+* [Yoksel Flexbox Cheatsheet](https://yoksel.github.io/flex-cheatsheet/)
+* [Codeburst Flexbox Cheatsheet](https://codeburst.io/a-simple-cheatsheet-for-flexbox-f5d3e1658447)
 
 ## Presentations
 *Tired of reading? See an interactive presentation and learn flexbox now.*
@@ -117,6 +151,9 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 * [Leveling up with flexbox](https://vimeo.com/96406277)
 * [What the flexbox?](http://flexbox.io) - A simple 20 video course that will help you master
 * [Flexbox Fundamentals](https://egghead.io/lessons/misc-flexbox-fundamentals)
+* [Learn flexbox for free](https://scrimba.com/g/gflexbox)
+* [Learn flexbox in 5 minutes](https://www.youtube.com/watch?v=JVYVDpdvdMo)
+* [Flexbox real layout examples](https://www.youtube.com/watch?v=k32voqQhODc)
 
 
 ### [Sketching with CSS](http://www.sketchingwithcss.com) Flexbox Guide by [@sfioritto](https://github.com/sfioritto)
@@ -189,6 +226,7 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 * [Visualizing Flexbox](http://codepen.io/paultrone/pen/xwxNmQ?utm_campaign=CSS%2BLayout%2BNews&utm_medium=email&utm_source=CSS_Layout_News_6) - A neat little CodePen Demo to play around with Flex properties.
 * [ZEEF CSS Flexbox](https://css-flexbox.zeef.com/afonso.pacifer) - The awesome flexbox on zeef.:metal:
 * [Flexbox Zombies](http://flexboxzombies.com/p/flexbox-zombies) - A game for learning CSS flexbox.
+* [Flexbox Game Webflow](https://preview.webflow.com/preview/flexbox-game?preview=d1a26b027c4803817087a91c651e321f&m=1)
 
 ## Courses
 * [CSS Flexbox Layout](https://teamtreehouse.com/library/css-flexbox-layout?utm_source=Responsive+Design+Weekly&utm_campaign=e4dbc18ebc-Responsive_Design_Weekly_184&utm_medium=email&utm_term=0_df65b6d7c8-e4dbc18ebc-59080665&goal=0_df65b6d7c8-e4dbc18ebc-59080665) - treehouse
