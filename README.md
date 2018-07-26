@@ -62,7 +62,6 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 * [What IS Flexbox?](https://medium.com/@spaceninja/what-is-flexbox-6aed968555ef)
 * [Desarrollo de aplicaciones web Flexibles (es-es)](http://nucliweb.github.io/flexbox/)
 * [Become 2018 ready with flexbox and grid](https://blog.prototypr.io/become-a-2018-ready-web-developer-by-learning-flexbox-and-css-grid-d32e4af2dcc0)
-* [Webflow Flexbox](https://flexbox.webflow.com/)
 * [CSS Tricks Flexbox Almanac](https://css-tricks.com/almanac/properties/f/flex/)
 * [Don't overthink flexbox grids](https://css-tricks.com/dont-overthink-flexbox-grids/)
 * [Understanding Flexbox](https://github.com/ohansemmanuel/Understanding-Flexbox)
